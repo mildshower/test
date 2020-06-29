@@ -1,0 +1,26 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mildshower/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mildshower/test/issues"
+  },
+  "homepage": "https://github.com/mildshower/test#readme",
+  "description": "",
+  "dependencies": {
+    "mocha": "^8.0.1"
+  }
+}

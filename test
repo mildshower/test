@@ -1,6 +1,6 @@
 const assert = require("assert");
 
-describe("sample description",()=>{
+describe("sample  description",()=>{
 	it("sample it",()=>{
 		assert.ok(true);
 	})
